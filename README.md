@@ -1,6 +1,6 @@
 # mixin_bot_sdk_dart
 
-Dart/Flutter SDK for Mixin Bot1
+Dart/Flutter SDK for Mixin Bot12
 
 [Pub package](https://pub.dev/packages/mixin_bot_sdk_dart)
 
